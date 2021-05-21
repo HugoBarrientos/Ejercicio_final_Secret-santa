@@ -1,0 +1,20 @@
+{
+  "name": "Ejercicio_Final_lit-element",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@material/mwc-button": "^0.21.0",
+    "@material/mwc-icon-button": "^0.21.0",
+    "@material/mwc-list": "^0.21.0",
+    "@material/mwc-textfield": "^0.21.0",
+    "@material/mwc-top-app-bar": "^0.21.0",
+    "lit-element": "^2.5.1"
+  }
+}
